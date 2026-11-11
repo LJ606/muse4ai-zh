@@ -1,0 +1,7 @@
+﻿Chào mừng bạn đến với Muse4AI!
+
+Nếu Muse4AI đang mở, bộ cài sẽ tự đóng app (đóng bình thường, như khi bạn chọn Thoát) rồi cài tiếp.
+
+Tài khoản, proxy, cài đặt và thư viện ảnh/video của bạn được giữ nguyên. Bản trước vẫn được giữ lại để quay về khi cần.
+
+Không cần quyền quản trị. Đây là bản thử nghiệm, chưa ký số.

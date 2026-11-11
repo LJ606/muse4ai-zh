@@ -1,0 +1,7 @@
+﻿Welcome to Muse4AI!
+
+If Muse4AI is open, setup closes it for you (the normal way, like choosing Quit) and then continues.
+
+Your accounts, proxies, settings and image/video library are kept. The previous version stays installed so you can go back if needed.
+
+No admin rights needed. This is a test build and is not code-signed.
